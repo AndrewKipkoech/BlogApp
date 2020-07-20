@@ -4,4 +4,4 @@ Express MongoDB NodeJs Blog-site that uses Restful Routing to map HTTP routes an
 #### Javascript <br/>
 #### Semantic UI <br/>
 #### Nodejs and Express <br/>
-#### Moongoose and MongoDB
+#### Mongoose and MongoDB
